@@ -45,9 +45,28 @@ Você pode informar no link abaixo ?
 
 https://ideaboardz.com/for/Coding%20Dojo/4626243
 
+## Comandos básicos
+
+Como alterar a senha do git
+
+```cmd
+
+git config credential.helper store
+
+```
+
+Como subir arquivos
+
+
+```cmd
+
+git add --all
+git commit -m "{DESCRICAO_CLARA}"
+git push origin main
+
+```
+
 ## Links
 
 https://www.devmedia.com.br/o-que-e-o-coding-dojo/30517
 
-
-ascasc
